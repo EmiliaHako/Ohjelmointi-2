@@ -1,0 +1,124 @@
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe.config
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\bin\Debug\MuistipeliApp1.pdb
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.AssemblyReference.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmTiedot.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.Properties.Resources.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CopyComplete
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.exe
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.pdb
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe.config
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\bin\Debug\MuistipeliApp1.pdb
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.AssemblyReference.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmTiedot.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli2.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.Properties.Resources.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.GenerateResource.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CoreCompileInputs.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CopyComplete
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.exe
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.pdb
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\harjoitustyo\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmPelitilasto.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli2.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmPelitilasto.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe.config
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\bin\Debug\MuistipeliApp1.pdb
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.AssemblyReference.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmTiedot.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli2.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmPelitilasto.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.Properties.Resources.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.GenerateResource.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CoreCompileInputs.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CopyComplete
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.exe
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.pdb
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli3.resources
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe.config
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\bin\Debug\MuistipeliApp1.pdb
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.AssemblyReference.cache
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmTiedot.resources
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli.resources
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli2.resources
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmPelitilasto.resources
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli3.resources
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.Properties.Resources.resources
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CopyComplete
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.exe
+C:\Users\Käyttäjä\Downloads\MuistipeliApp1(iltaversio1.12.22)\MuistipeliApp1\obj\Debug\MuistipeliApp1.pdb
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe.config
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\bin\Debug\MuistipeliApp1.pdb
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.AssemblyReference.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmTiedot.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli2.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmPelitilasto.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli3.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.Properties.Resources.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CopyComplete
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.exe
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0212)\MuistipeliApp1\obj\Debug\MuistipeliApp1.pdb
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe.config
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\bin\Debug\MuistipeliApp1.pdb
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.AssemblyReference.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmTiedot.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli2.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmPelitilasto.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli3.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.Properties.Resources.resources
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CopyComplete
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.exe
+C:\Users\Käyttäjä\Desktop\Tietotekniikka\Ohjelmointi 2\MuistipeliApp1(oikea0512)\MuistipeliApp1\obj\Debug\MuistipeliApp1.pdb
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe.config
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\bin\Debug\MuistipeliApp1.exe
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\bin\Debug\MuistipeliApp1.pdb
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.AssemblyReference.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmTiedot.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli2.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmPelitilasto.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.FrmMuistipeli3.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.Properties.Resources.resources
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.GenerateResource.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CoreCompileInputs.cache
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.csproj.CopyComplete
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.exe
+C:\Users\hakom\Documents\Savonia\Ohjelmointi2\MuistipeliApp1(VALMIS)\MuistipeliApp1\obj\Debug\MuistipeliApp1.pdb
